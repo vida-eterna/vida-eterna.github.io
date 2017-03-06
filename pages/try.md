@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Try
+title: /try/
 permalink: try.html
-show_meta: true
+show_meta: false
 # imagefeature path is relative to images/ directory.
 imagefeature: foo.png
 published: true
