@@ -10,8 +10,8 @@ title:               foo
 #tagline:             'foo's website
 description:         Foo's blog...
 url: https://dyndna.github.io/lanyon-plus
-baseurl: "/lanyon-plus"
-urlimg: https://dyndna.github.io/lanyon-plus/images/
+baseurl: "https://vida-eterna.github.io"
+urlimg: https://vida-eterna.github.io/images/
 markdown: kramdown
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -33,8 +33,8 @@ exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "l
 
 # About/contact
 author:
-  name:              Foo Boo
-  url:               https://twitter.com/abcd
+  name:              Daniel Teodoro
+  url:               https://#
   avatar:         foo.png
   #email:           
 
