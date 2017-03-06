@@ -1,6 +1,6 @@
 ---
 layout: page
-title: /try/
+title: La corrupción del adorador
 permalink: try.html
 show_meta: false
 # imagefeature path is relative to images/ directory.
