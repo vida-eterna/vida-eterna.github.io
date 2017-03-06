@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## This website uses Markdown... Not exciting.
+
+[Link to Try](vida-eterna.github.io/try.html)
 
 You can use the [editor on GitHub](https://github.com/vida-eterna/vida-eterna.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
