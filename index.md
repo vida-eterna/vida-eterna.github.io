@@ -1,16 +1,16 @@
 ---
 layout: default
 permalink: index.html
-title: Personal Homepage of foo boo
-description: "Blogging on ...."
+title: Vida Eterna
+description: "Material Cristiano"
 ---
 
-## [lanyon-plus](https://github.com/dyndna/lanyon-plus)
+## [Material Cristiano](#)
 
-Click on the following link: [The Try Page](/try.html) by [**Mark Otto**](https://github.com/mdo)
+Click on the following link: [The Try Page](/try.html) by [**Mark Otto**](#)
 
 * add-ons by [Samir Amin](http://sbamin.com)
-* [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
+* [Site features]({{ site.url}})
 * License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
 
 Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
