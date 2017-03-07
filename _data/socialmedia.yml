@@ -1,7 +1,7 @@
 - name: Twitter
   url: https://twitter.com/abcd
   class: fa fa-twitter-square
-  title: "Follow me @foo"
+  title: "Follow me @#"
 
 - name: Google Plus
   url: https://plus.google.com/+foo
