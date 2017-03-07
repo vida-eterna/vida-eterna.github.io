@@ -7,7 +7,7 @@ description: "Material Cristiano"
 
 ## [Material Cristiano](#)
 
-Click on the following link: [The Try Page](/try.html) by [**Mark Otto**](#)
+Click on the following link: [The Try Page](/try.html) by [**Daniel Teodoro**](#)
 
 * add-ons by [Samir Amin](http://sbamin.com)
 * [Site features]({{ site.url}})
